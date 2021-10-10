@@ -1,0 +1,62 @@
+Filled container:
+The container has 20 elements.
+0: This is a film named "Warcraft". It was produced in 1901 year.
+It is a documentary. Length: 42 minutes.
+The quotient equals 237.
+1: This is a film named "Warcraft". It was produced in 160 year.
+It is a cartoon. It was created by using computer method.
+The quotient equals 20.
+2: This is a film named "Warcraft". It was produced in 1602 year.
+It is a documentary. Length: 33 minutes.
+The quotient equals 200.
+3: This is a film named "Warcraft". It was produced in 204 year.
+It is a documentary. Length: 27 minutes.
+The quotient equals 25.
+4: This is a film named "Warcraft". It was produced in 1020 year.
+It is a cartoon. It was created by using computer method.
+The quotient equals 127.
+5: This is a film named "Warcraft". It was produced in 809 year.
+It is a gaming film. Director id: 5727
+The quotient equals 101.
+6: This is a film named "Warcraft". It was produced in 1756 year.
+It is a gaming film. Director id: 1037
+The quotient equals 219.
+7: This is a film named "Warcraft". It was produced in 1850 year.
+It is a gaming film. Director id: 19473
+The quotient equals 231.
+8: This is a film named "Warcraft". It was produced in 1193 year.
+It is a documentary. Length: 55 minutes.
+The quotient equals 149.
+9: This is a film named "Warcraft". It was produced in 1175 year.
+It is a cartoon. It was created by using computer method.
+The quotient equals 146.
+10: This is a film named "Warcraft". It was produced in 700 year.
+It is a cartoon. It was created by using computer method.
+The quotient equals 87.
+11: This is a film named "Warcraft". It was produced in 555 year.
+It is a documentary. Length: 21 minutes.
+The quotient equals 69.
+12: This is a film named "Warcraft". It was produced in 1938 year.
+It is a cartoon. It was created by using computer method.
+The quotient equals 242.
+13: This is a film named "Warcraft". It was produced in 900 year.
+It is a documentary. Length: 24 minutes.
+The quotient equals 112.
+14: This is a film named "Warcraft". It was produced in 1560 year.
+It is a gaming film. Director id: 11298
+The quotient equals 195.
+15: This is a film named "Warcraft". It was produced in 329 year.
+It is a gaming film. Director id: 31405
+The quotient equals 41.
+16: This is a film named "Warcraft". It was produced in 1272 year.
+It is a documentary. Length: 67 minutes.
+The quotient equals 159.
+17: This is a film named "Warcraft". It was produced in 1371 year.
+It is a cartoon. It was created by using computer method.
+The quotient equals 171.
+18: This is a film named "Warcraft". It was produced in 1691 year.
+It is a documentary. Length: 54 minutes.
+The quotient equals 211.
+19: This is a film named "Warcraft". It was produced in 486 year.
+It is a documentary. Length: 5 minutes.
+The quotient equals 60.
